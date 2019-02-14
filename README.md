@@ -6,3 +6,5 @@ The goal of the visualization is to explain what Donkey Car (https://github.com/
 locations where the feature maps of CNN layers have the greatest activations.
 
 Original paper: https://arxiv.org/pdf/1704.07911.pdf
+
+Environment: Tensorflow 1.9 + Keras 2.1
